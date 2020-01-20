@@ -4,7 +4,7 @@
   "slug": "motion",
   "description": "A software motion detector that integrates a usb webcam into hass.io",
   "startup": "system",
-  "arch": ["armv7l"],
+  "arch": {},
   "boot": "auto",
   "ports": {
     "8081/tcp": 8081
